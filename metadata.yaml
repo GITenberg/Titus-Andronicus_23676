@@ -1,0 +1,46 @@
+_repo: Titus-Andronicus_23676
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Burgersdijk, L. A. J. (Leendert Alexander Johannes)
+    aliases:
+    - Burgersdijk, Dr. L.A.J.
+    - Burgersdijk, Dr. L. A. J.
+    - Burgersdijk, Leendert Alexander Johannes
+    birthdate: 1828
+    deathdate: 1900
+    gutenberg_agent_id: '25415'
+    url: http://www.gutenberg.org/2009/agents/25415
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: ''
+gutenberg_issued: '2007-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23676'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tragedies'
+- !lcc 'PR'
+- !lcsh 'Historical drama'
+- !lcsh 'Andronicus, Titus (Legendary character) -- Drama'
+- !lcsh 'Rome -- History -- Germanic invasions, 3rd-6th centuries -- Drama'
+- !lcsh 'Generals -- Drama'
+- !lcsh 'Goths -- Drama'
+title: Titus Andronicus
+url: http://www.gutenberg.org/ebooks/23676
