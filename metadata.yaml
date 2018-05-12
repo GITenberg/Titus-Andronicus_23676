@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/65
     wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23676#Titus-Andronicus
 gutenberg_issued: '2007-12-02'
 gutenberg_type: Text
 identifiers:
